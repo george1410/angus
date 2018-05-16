@@ -20,4 +20,22 @@ h1 {
 .tagline {
     color: #4A7F84;
     font-size: 1.25rem;
+    margin-bottom: 30px;
+}
+
+.ghost-btn {
+    border: 3px solid #F7FDFF;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    color: #F7FDFF;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    display: block;
+    transition: 0.8s all;
+}
+
+.ghost-btn:hover {
+    background-color: #F7FDFF;
+    color: #84DCC6;
 }
