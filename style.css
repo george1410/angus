@@ -1,0 +1,23 @@
+body {
+    background-color: #F7FDFF;
+}
+
+header {
+    background-color: #84DCC6;
+    text-align: center;
+    margin: 15px;
+    font-family: 'Roboto Slab';
+    padding: 70px 0;
+}
+
+h1 {
+    color: #F7FDFF;
+    font-size: 5rem;
+    font-weight: 300;
+    padding: 30px 0;
+}
+
+.tagline {
+    color: #4A7F84;
+    font-size: 1.25rem;
+}
