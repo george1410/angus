@@ -18,13 +18,11 @@ h1 {
     padding: 30px 0;
 }
 
-h2 {
-    color: #F7FDFF;
-    font-size: 5rem;
-    font-weight: 300;
+p {
+    color: #4A7F84;
+    font-size: 1.25rem;
     font-family: 'Roboto Slab';
-    padding: 30px 0;
-    text-align: center;
+
 }
 
 .tagline {
@@ -51,5 +49,13 @@ h2 {
 }
 
 .projects-box {
-    background-color: #A6EDC2;
+    background-color: #F7FDFF;
+}
+
+.heading {
+    color: #4A7F84;
+    font-size: 5rem;
+    font-weight: 300;
+    font-family: 'Roboto Slab';
+    padding: 30px 0;
 }
