@@ -59,3 +59,33 @@ p {
     font-family: 'Roboto Slab';
     padding: 30px 0;
 }
+
+.card {
+    width: 400px;
+}
+
+
+.btn {
+
+    color: #F7FDFF;
+    background-color: #FC834B;
+    font-family: 'Roboto Slab'
+}
+
+.btn:hover {
+
+    color: #F7FDFF;
+    background-color: #fb5204;  
+    transition: 0.8s;  
+}
+
+.card-title {
+
+    color: #4A7F84;
+    font-size: 2rem;
+    font-family: 'Roboto Slab';
+}
+
+.card {
+    background-color: #F7FDFF
+}
