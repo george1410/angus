@@ -87,5 +87,10 @@ p {
 }
 
 .card {
-    background-color: #F7FDFF
+    background-color: #F7FDFF;
+    transition: transform .2s;
+}
+
+.card:hover {
+    transform: scale(1.1);
 }
