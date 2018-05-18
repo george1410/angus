@@ -18,11 +18,21 @@ h1 {
     padding: 30px 0;
 }
 
+h4 {
+    color: #4A7F84;
+    font-size: 1.25rem;
+    font-family: 'Roboto Slab';
+}
+
 p {
     color: #4A7F84;
     font-size: 1.25rem;
     font-family: 'Roboto Slab';
 
+}
+
+img {
+    width: 400px;
 }
 
 .tagline {
@@ -48,10 +58,6 @@ p {
     color: #84DCC6;
 }
 
-.projects-box {
-    background-color: #F7FDFF;
-}
-
 .heading {
     color: #4A7F84;
     font-size: 5rem;
@@ -60,37 +66,34 @@ p {
     padding: 30px 0;
 }
 
+
 .card {
     width: 400px;
-}
-
-
-.btn {
-
-    color: #F7FDFF;
-    background-color: #FC834B;
-    font-family: 'Roboto Slab'
-}
-
-.btn:hover {
-
-    color: #F7FDFF;
-    background-color: #fb5204;  
-    transition: 0.8s;  
-}
-
-.card-title {
-
-    color: #4A7F84;
-    font-size: 2rem;
-    font-family: 'Roboto Slab';
-}
-
-.card {
-    background-color: #F7FDFF;
-    transition: transform .2s;
+    transition: 0.8s;
 }
 
 .card:hover {
-    transform: scale(1.1);
+
+    transform: scale(1.05)
+
+}
+
+.project-button {
+    display:inline-block;
+    padding:6px 12px;
+    font-size:14px;
+    font-weight:400;
+    line-height:1.42857143;
+    text-align:center;
+    border:1px solid transparent;
+    border-radius:4px;
+    background-color: #FC834B;
+    color: #F7FDFF;
+    font-family: "Roboto Slab";
+    transition: 0.8s;
+    
+}
+
+.project-button:hover {
+    background-color: #fb5204;
 }
