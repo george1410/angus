@@ -72,6 +72,10 @@ img {
     transition: 0.8s;
 }
 
+.card-container {
+    background-color: #F7FDFF;
+}
+
 .card:hover {
 
     transform: scale(1.01)
@@ -96,4 +100,20 @@ img {
 
 .project-button:hover {
     background-color: #fb5204;
+}
+
+
+.container-fluid {
+    background-color: #A6EDC2;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+
+.container-fluid-projects {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: 15px;
+  margin-left: 15px;
 }
