@@ -33,7 +33,9 @@ p {
 
 img {
     width: 400px;
+    height: 400px;
 }
+
 
 .tagline {
     color: #4A7F84;
@@ -80,6 +82,16 @@ img {
 
     transform: scale(1.01)
 
+}
+
+.MageThumbnail {
+    width: 304px;
+    height: 405px;
+}
+
+.Project2Thumbnail {
+    width: 304px;
+    height: 405px;
 }
 
 .project-button {
