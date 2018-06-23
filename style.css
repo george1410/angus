@@ -89,7 +89,7 @@ li {
     font-size: 3rem;
     font-weight: 400;
     font-family: 'Roboto Slab';
-    padding: 30px 0;
+    padding: 15px;
 }
 
 .dark-heading {
@@ -97,16 +97,28 @@ li {
     font-size: 3rem;
     font-weight: 400;
     font-family: 'Roboto Slab';
-    padding: 30px 0;
+    padding: 15px 0;
 }
 
 .card {
-    width: 400px;
-    transition: 0.8s;
+    padding: 15px;
+    width: 100%;
+    border: #32b393 solid 5px;
+    border-radius: 10px;
 }
 
 .card-container {
     background-color: #F7FDFF;
+
+}
+
+
+.project-names {
+    color: #32b393;
+    font-size: 2rem;
+    font-weight: 300;
+    font-family: 'Roboto Slab'
+    padding: 30px 0;
 }
 
 
@@ -181,6 +193,7 @@ li {
 .body-text {
     font-family: 'Helvetica';
     color: #4A7F84;
+    padding: 15px;
 }
 
 .project-tag {
@@ -207,3 +220,20 @@ li {
 .jumpto-box {
     
 }
+
+.highlight-word {
+    font-weight: 800;
+    color: #FC834B;
+}
+
+.project-page-heading {
+    color:  #32b393;
+    font-size: 3rem;
+    font-weight: 400;
+    font-family: 'Roboto Slab';
+    padding: 15px;
+}
+
+.navbox {
+    border: #32b393 solid 5px;
+    border-radius: 10px;
