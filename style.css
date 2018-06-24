@@ -123,14 +123,10 @@ li {
 
 
 .MageThumbnail {
-    width: 304px;
+    width: 60%;
     height: 405px;
 }
 
-.Project2Thumbnail {
-    width: 304px;
-    height: 405px;
-}
 
 .project-button {
     display: inline-block;
@@ -217,9 +213,7 @@ li {
 
 }
 
-.jumpto-box {
-    
-}
+
 
 .highlight-word {
     font-weight: 800;
